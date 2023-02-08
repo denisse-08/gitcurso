@@ -1,0 +1,2 @@
+# gitcurso
+primera practica git
